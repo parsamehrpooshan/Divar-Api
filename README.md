@@ -24,18 +24,20 @@
 
 ### ⚙️ تکنولوژی‌ها
 
+
 * HTML
 * CSS
 * JavaScript
 * React.js
-* Next.js (App Router)
-* Tailwind CSS
-* React Query(Tanstack)
-* MongoDB
-* Figma
+* Rest Api
+* React Router
+* React Query (TanStack)
 * Axios
-* React Hook Form
-* Yup
+* Node.js
+* Express.js
+* MongoDB
+* Authentication
+* Authorization
 
 ---
 
